@@ -51,12 +51,12 @@
             "ad_int_interval" : 1,
             "score_rating_reward" : 3,
 
-            "orientation": "portrait",
+            "orientation": "landscape",
 
-            "game_name": "2048: Link 'n Merge Game",
+            "game_name": "Switch Slot On Fruit game ",
             "game_cover": "",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://lagged.com/games/play2/2048-link-n-merge-7805/",
+            "game_link": "https://g.vseigru.net/9/igra-madzhong-soedini-frukty/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
